@@ -54,3 +54,8 @@ function printFullName(firstName) {
 
 printFullName('Andre');
 printFullName('John');
+
+/*
+Additional Note:
+In JavaScript, template literals use backticks (`) instead of single quotes (') for string interpolation. Also, ensure consistency in variable names (e.g., 'lastName' instead of 'fullName' in the string interpolation).
+*/
