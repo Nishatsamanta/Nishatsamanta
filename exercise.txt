@@ -2,7 +2,8 @@
 Intro to functions
 
 A function is basically a block of statements that performs a task or
-calculates a value. Functions can return values and invoke other functions
+calculates a value. Functions can return values and invoke other functions.
+function always use return .
 */
 
 'use strict';
